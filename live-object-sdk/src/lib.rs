@@ -15,6 +15,8 @@
 
 mod exports;
 mod imports;
+mod storage;
 
 pub use crate::exports::*;
 pub use crate::imports::*;
+pub use crate::storage::*;
